@@ -16,9 +16,10 @@ An Android mobile application designed to calculate fuel costs and monitor subsi
 
 ## 📸 Screenshots
 
-| Home Screen (Empty State) | Cost Calculation (Active Subsidy) | Navigation Drawer | About Developer |
-| :---: | :---: | :---: | :---: |
-| <img src="screenshots/home_empty.png" width="200"> | <img src="screenshots/calculation_active.png" width="200"> | <img src="screenshots/nav_drawer.png" width="200"> | <img src="screenshots/about_dev.png" width="200"> |
+| Home Screen (Empty State) | Cost Calculation (Active Subsidy) | Navigation Drawer | About Developer | Exit Button |
+| :---: | :---: | :---: | :---: | :---: |
+| <img width="1080" height="2400" alt="Screenshot_20260516_202103" src="https://github.com/user-attachments/assets/8be3324c-e864-4169-8b05-00adaecb610e" /> | <img width="1080" height="2400" alt="Screenshot_20260516_202209" src="https://github.com/user-attachments/assets/3d207a65-a64a-4f52-bc0a-3d2991275f6a" /> | <img width="1080" height="2400" alt="Screenshot_20260516_202114" src="https://github.com/user-attachments/assets/088c5f7f-6241-47c6-b6c9-02c26d5678a0" /> | <img width="1080" height="2400" alt="Screenshot_20260516_202125" src="https://github.com/user-attachments/assets/f73dacea-a4ce-449d-a254-244b2a56a45f" /> | <img width="1080" height="2400" alt="Screenshot_20260516_202135" src="https://github.com/user-attachments/assets/8a8b965c-1f65-4154-b7bd-984bc0c0f5f2" />
+
 
 ---
 
