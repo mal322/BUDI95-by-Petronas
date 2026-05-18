@@ -154,7 +154,7 @@
         android:layout_marginTop="251dp"
         android:autoLink="web"
         android:linksClickable="true"
-        android:text="https://github.com/cxdzy/BUDI95-Petrol-Calculator-ICT602.git"
+        android:text="https://github.com/mal322/BUDI95-by-Petronas"
         android:textColor="@color/teal_200"
         android:textSize="14sp"
         android:textStyle="bold"

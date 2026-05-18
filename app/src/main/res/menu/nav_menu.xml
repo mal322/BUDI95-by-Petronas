@@ -15,7 +15,7 @@
         <item
             android:id="@+id/nav_about"
             android:icon="@drawable/nav_about"
-            android:title="About Us"/>
+            android:title="About"/>
     </group>
     <item
         android:title="BUDI MADANI RON95 Dengan Mesra">
